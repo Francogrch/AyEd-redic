@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+/mnt/disk_2tb/Facultad-2023/2-cuatri/Ayed redictado/Practica/workspace/.metadata/.plugins/org.eclipse.jdt.core
+1334774838.index
+4021437759.index
+2233849252.index
+3599129996.index
+1865797976.index
+934496910.index

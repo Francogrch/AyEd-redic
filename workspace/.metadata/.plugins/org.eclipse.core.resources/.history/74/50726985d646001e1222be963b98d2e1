@@ -1,0 +1,15 @@
+package punto1;
+import ListaDeEnteros.*;
+public class TestListaDeEnterosConArreglos {
+	private static void main(int[] args){
+		ListaDeEnterosConArreglos array = new ListaDeEnterosConArreglos();
+		for (int integer: args) {
+			array.agregarInicio(integer);
+		}
+		array.comenzar();
+		while (!array.fin()){
+			System.out.println(array.proximo());
+		}
+		
+	}
+}

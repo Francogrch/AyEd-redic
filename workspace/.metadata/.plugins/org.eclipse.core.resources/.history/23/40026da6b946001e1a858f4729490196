@@ -1,0 +1,19 @@
+package punto2;
+import java.utils.Scanner;
+
+public class punto2 {
+	
+	public static void main(String[] args) {
+		int[] array = arregloN(5);
+		for (int entero: array) {
+			System.out.println(entero);
+		}
+	}
+	private static int[] arregloN(int n) {
+		int[] array = new int[n];	
+		for (int i = 1;i <= n;i++) {
+			array[i-1] = (i*n);
+		}
+		return array;
+	}
+}

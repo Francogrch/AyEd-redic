@@ -1,0 +1,8 @@
+package punto3;
+
+public class Test {
+	public static void main(String[] args) {
+		Estudiante[] arrayEstu = new Estudiante()[2];
+		
+	}
+}
