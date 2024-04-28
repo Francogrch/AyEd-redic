@@ -1,7 +1,0 @@
-package punto1;
-
-public class TestListaDeEnterosConArreglos {
-	private static void main(String args){
-		
-	}
-}

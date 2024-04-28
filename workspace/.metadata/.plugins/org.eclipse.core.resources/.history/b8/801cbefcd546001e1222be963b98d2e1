@@ -1,9 +1,0 @@
-package punto1;
-import ListaDeEnteros.*;
-public class TestListaDeEnterosConArreglos {
-	private static void main(int[] args){
-		ListaDeEnterosConArreglos array;
-		
-		
-	}
-}
